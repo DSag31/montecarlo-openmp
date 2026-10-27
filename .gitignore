@@ -1,0 +1,6 @@
+montecarlo_secuencial
+montecarlo_paralelo
+montecarlo_static
+montecarlo_dynamic
+*.save
+*.o
